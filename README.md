@@ -1,2 +1,2 @@
 # git-practice
-First demo repo
+First demo repo in IMM
